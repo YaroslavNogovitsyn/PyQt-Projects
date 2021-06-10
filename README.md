@@ -27,5 +27,10 @@ There are 3 variants of this application in the psytest folder.
    There is a transition to the object form which simplifies the work since we can access the fields. 
    The Main_Window class also appears which controls the operation of the program. 
    At the end of the program, the ResultTable class runs which shows the results window. 
-   Compared to the "easy" and "average" levels here you can see which answers influenced this profession
-    
+   Compared to the "easy" and "medium" levels here you can see which answers influenced this profession
+
+## Financial Calculator
+This project implements the logic of a financial calculator. You can understand how long it will take for the project to pay off. You can specify the bid, amount, and time and find out how many investments you need now to get this investment
+
+## Memo Card
+The app is designed for learning a foreign language. You can create a card, correct and incorrect answers. After that, there are 4 possible answers, choosing one of them we will find out whether it is the correct answer or not. This way you can easily learn new words of a foreign language
